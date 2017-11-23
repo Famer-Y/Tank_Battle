@@ -1,6 +1,7 @@
 # Tank_Battle
 ## A game about Tank
 ### 目前实现功能如下：
+
  1）坦克的行走
  2）AI坦克
  3）子弹&子弹的碰撞
