@@ -12,7 +12,7 @@
  *        @@@@            @@@@      @@@@@@@@@@@
  *
  * @object  : 坦克大战
- * @author  : 风穆
+ * @author  : 风穆|Famer
  * @beginData: 2017年11月16日
  * @endData : 2017年11月19日
  */
